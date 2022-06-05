@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lGEdKEvEPRg4YIJvGfSCCN0LIZ5Ba8iVGIxIc//s48RvyFBb7cHHYw97EKNFbzDzNlxQSugAj/tmExpJjBHELg==",
+  "success": true,
+  "projectFilePath": "D:\\大三下\\编程语言与编译\\Microc_optimize-master\\Microc_optimize-master\\interpc.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\fslexyacc\\10.2.0\\fslexyacc.10.2.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\fslexyacc.runtime\\10.2.0\\fslexyacc.runtime.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
